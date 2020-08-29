@@ -1,0 +1,6 @@
+# Up and down keys to search history.
+"\e[A": history-search-backward
+"\e[B": history-search-forward
+
+# Two escape keys to clear command line.
+"\e\e": "\C-a\C-k"
