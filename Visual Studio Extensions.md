@@ -9,3 +9,4 @@ VsColorOutput
 Editor Guilines
 Productivity Power Tools
 Easy Motion
+[MadsKristensen.AddNewFile](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
