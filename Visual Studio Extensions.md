@@ -1,12 +1,9 @@
-- Microsoft Code Analysis 2019
-- Trailing Whitespace Visualizer
-- Visual Studio Spell Checker (VS2017 and Later)
-- File Icons
-- File Differ
-- NamespaceFixer
-- Surround Selection (?)
-- VsColorOutput
-- Editor Guilines
-- Productivity Power Tools
-- Easy Motion
+- [Trailing Whitespace Visualizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
+- [Visual Studio Spell Checker (VS2017 and Later)](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
+- [File Icons](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
+- [File Differ](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileDiffer)
+- [NamespaceFixer](https://marketplace.visualstudio.com/items?itemName=p2410.NamespaceFixer)
+- [VsColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
+- [Productivity Power Tools](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
 - [MadsKristensen.AddNewFile](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
+- [Multiple Carets Booster](https://marketplace.visualstudio.com/items?itemName=VaclavNadrasky.MultiCaretBooster)
