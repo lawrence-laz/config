@@ -1,6 +1,9 @@
 # Diff algorithm
 git config --global diff.algorithm histogrami
 
+git config --global user.name ""
+git config --global user.email ""
+
 # Credentials manager
 sudo apt-get install libsecret-1-0 libsecret-1-dev
 cd /usr/share/doc/git/contrib/credential/libsecret
