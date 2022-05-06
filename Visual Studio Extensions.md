@@ -8,3 +8,8 @@
 - [VsColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
 - [Productivity Power Tools](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
 - [Multiple Carets Booster](https://marketplace.visualstudio.com/items?itemName=VaclavNadrasky.MultiCaretBooster)
+- [File Path On Footer]()
+- [Indent Guides for VS2022]()
+- [Editor Guidelines]()
+- [Match Margin 2022]()
+  - Highlights same text under carret
