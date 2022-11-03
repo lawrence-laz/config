@@ -13,3 +13,4 @@
 - [Editor Guidelines]()
 - [Match Margin 2022]()
   - Highlights same text under carret
+- [Reference Conflicts Analyser](https://marketplace.visualstudio.com/items?itemName=MykolaTarasyuk.ReferenceConflictsAnalyserVS2022)
